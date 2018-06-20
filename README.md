@@ -4,7 +4,7 @@
 
 ### 现有读书笔记
 1. [精读《你不知道的javascript（上卷）》](https://zhuanlan.zhihu.com/p/37421835)
-2. [精读《你不知道的javascript（中卷）》]()
+2. [精读《你不知道的javascript（中卷）》](https://zhuanlan.zhihu.com/p/38287143)
 3. [精读《深入浅出Node.js》](https://zhuanlan.zhihu.com/p/37850016)
 4. [javascript 垃圾回收算法](https://zhuanlan.zhihu.com/p/37996721)
 
