@@ -3,11 +3,14 @@
 > 通过思维导图的方式来学习前端，将思维形象化，串联知识点，系统学习前端知识，提高学习效率，加深记忆  :tada: 
 
 ### 现有读书笔记
+
+>也可以直接在 isuue 里查看文章
+
 1. [精读《你不知道的javascript（上卷）》](https://zhuanlan.zhihu.com/p/37421835)
 2. [精读《你不知道的javascript（中卷）》](https://zhuanlan.zhihu.com/p/38287143)
 3. [精读《深入浅出Node.js》](https://zhuanlan.zhihu.com/p/37850016)
 4. [javascript 垃圾回收算法](https://zhuanlan.zhihu.com/p/37996721)
-
+5. [精读《图解HTTP》](https://zhuanlan.zhihu.com/p/38548737)
 
 
 ### 参与维护 Contributing
@@ -21,7 +24,9 @@
 
 ### 补充
 
-思维导图工具是 xmind ，[下载地址](https://www.xmind.cn/) 
+[思维导图工具 xmind 下载地址](https://www.xmind.cn/) 
 
-如果不喜欢在 issue 里看文章，[可以到我的知乎专栏](https://zhuanlan.zhihu.com/c_57862727)，阅读体验好一些
+[掘金主页：程序员解决师](https://juejin.im/user/55fa4985ddb2dd0026a05f48/posts)
+
+[知乎专栏：霸天的前端自留地](https://zhuanlan.zhihu.com/c_57862727)
 
