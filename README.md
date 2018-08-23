@@ -9,9 +9,12 @@
 1. [精读《你不知道的javascript（上卷）》](https://zhuanlan.zhihu.com/p/37421835)
 2. [精读《你不知道的javascript（中卷）》](https://zhuanlan.zhihu.com/p/38287143)
 3. [精读《深入浅出Node.js》](https://zhuanlan.zhihu.com/p/37850016)
-4. [javascript 垃圾回收算法](https://zhuanlan.zhihu.com/p/37996721)
-5. [精读《图解HTTP》](https://zhuanlan.zhihu.com/p/38548737)
+4. [精读《图解HTTP》](https://zhuanlan.zhihu.com/p/38548737)
+5. [精读《高效javascript》](https://juejin.im/post/5b7e1f81f265da436a075db4)
 6. [如何机制地回答浏览器兼容性问题](https://juejin.im/post/5b3da006e51d4518f140edb2)
+7. [javascript 垃圾回收算法](https://zhuanlan.zhihu.com/p/37996721)
+8. [你需要知道的单页面路由实现原理](https://juejin.im/post/5ae95896f265da0b84553bd7)
+9. [javascript 实现高仿 growingIO](https://juejin.im/post/5afe7ec7518825426f3104cf)
 
 
 ### 参与维护 Contributing
